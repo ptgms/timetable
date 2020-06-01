@@ -1,0 +1,196 @@
+{
+  "type": 1,
+  "valid": "2020-07-01T00:00:00.000Z",
+  "a": {
+    "monday": {
+      "1": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "07:55 - 08:40"
+      },
+      "2": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "08:40 - 09:25"
+      },
+      "3": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "09:40 - 10:25"
+      },
+      "4": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "10:25 - 11:10"
+      },
+      "5": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "11:30 - 12:15"
+      },
+      "6": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "12:15 - 13:00"
+      }
+    },
+    "tuesday": {
+      "1": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "07:55 - 08:40"
+      },
+      "2": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "08:40 - 09:25"
+      },
+      "3": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "09:40 - 10:25"
+      },
+      "4": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "10:25 - 11:10"
+      },
+      "5": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "11:30 - 12:15"
+      },
+      "6": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "12:15 - 13:00"
+      }
+    },
+    "wednesday": {
+      "1": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "07:55 - 08:40"
+      },
+      "2": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "08:40 - 09:25"
+      },
+      "3": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "09:40 - 10:25"
+      },
+      "4": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "10:25 - 11:10"
+      },
+      "5": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "11:30 - 12:15"
+      },
+      "6": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "12:15 - 13:00"
+      }
+    },
+    "thursday": {
+      "1": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "07:55 - 08:40"
+      },
+      "2": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "08:40 - 09:25"
+      },
+      "3": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "09:40 - 10:25"
+      },
+      "4": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "10:25 - 11:10"
+      },
+      "5": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "11:30 - 12:15"
+      },
+      "6": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "12:15 - 13:00"
+      }
+    },
+    "friday": {
+      "1": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "07:55 - 08:40"
+      },
+      "2": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "08:40 - 09:25"
+      },
+      "3": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "09:40 - 10:25"
+      },
+      "4": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "10:25 - 11:10"
+      },
+      "5": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "11:30 - 12:15"
+      },
+      "6": {
+        "Lesson": "Sample Lesson",
+        "Teacher": "None",
+        "Room": "None",
+        "Time": "12:15 - 13:00"
+      }
+    }
+  }
+}
